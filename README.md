@@ -1,0 +1,2 @@
+About
+I created a series of filters and used the OpenCV library to simulate a piano with a computer keyboard and altered the live video feed. A video demonstration is linked below.
